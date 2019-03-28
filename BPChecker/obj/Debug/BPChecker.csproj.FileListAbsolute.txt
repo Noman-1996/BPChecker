@@ -1,0 +1,10 @@
+C:\Users\Noman\source\repos\BPChecker\BPChecker\bin\Debug\BPChecker.exe.config
+C:\Users\Noman\source\repos\BPChecker\BPChecker\bin\Debug\BPChecker.exe
+C:\Users\Noman\source\repos\BPChecker\BPChecker\bin\Debug\BPChecker.pdb
+C:\Users\Noman\source\repos\BPChecker\BPChecker\obj\Debug\BPChecker.csprojAssemblyReference.cache
+C:\Users\Noman\source\repos\BPChecker\BPChecker\obj\Debug\BPChecker.Form1.resources
+C:\Users\Noman\source\repos\BPChecker\BPChecker\obj\Debug\BPChecker.Properties.Resources.resources
+C:\Users\Noman\source\repos\BPChecker\BPChecker\obj\Debug\BPChecker.csproj.GenerateResource.cache
+C:\Users\Noman\source\repos\BPChecker\BPChecker\obj\Debug\BPChecker.csproj.CoreCompileInputs.cache
+C:\Users\Noman\source\repos\BPChecker\BPChecker\obj\Debug\BPChecker.exe
+C:\Users\Noman\source\repos\BPChecker\BPChecker\obj\Debug\BPChecker.pdb
